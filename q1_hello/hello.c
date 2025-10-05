@@ -11,7 +11,8 @@
 #include <stdio.h>
 
 int main(void) {
-    // TODO: Add your printf statements here
+    printf("Hello, Post-Silicon Validation World!\n");
+    printf("This course introduces basic C programming fundamentals for post-silicon hardware validation tasks.\n");
 
     return 0;
 }
